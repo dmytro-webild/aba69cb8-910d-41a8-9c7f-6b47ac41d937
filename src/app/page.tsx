@@ -51,15 +51,15 @@ export default function LandingPage() {
           testimonials={[
             {
               name: "Rajesh Patel",              handle: "Small Business Owner",              testimonial: "Got my MSME registration done in just 2 days. Excellent service!",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-using-laptop_1170-336.jpg",              imageAlt: "Rajesh Patel"
+              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-using-laptop_1170-336.jpg?_wi=1",              imageAlt: "Rajesh Patel"
             },
             {
               name: "Priya Sharma",              handle: "Working Professional",              testimonial: "Very helpful with my ITR filing. Quick and hassle-free process.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-happy-mature-businessman-with-folded-arms_23-2147955369.jpg",              imageAlt: "Priya Sharma"
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-happy-mature-businessman-with-folded-arms_23-2147955369.jpg?_wi=1",              imageAlt: "Priya Sharma"
             },
             {
               name: "Vikram Singh",              handle: "Startup Founder",              testimonial: "Best consultancy in Ahmedabad. Highly recommended for all govt work.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-young-successful-businesswoman-suit-cross-arms-chest-smile-look-confident-stan_1258-118782.jpg",              imageAlt: "Vikram Singh"
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-young-successful-businesswoman-suit-cross-arms-chest-smile-look-confident-stan_1258-118782.jpg?_wi=1",              imageAlt: "Vikram Singh"
             }
           ]}
           buttons={[
@@ -86,22 +86,22 @@ export default function LandingPage() {
           useInvertedBackground={false}
           features={[
             {
-              id: "pan-card",              title: "PAN Card",              description: "Apply for new PAN card or correction of existing details. Quick processing.",              tag: "Income Tax",              imageSrc: "http://img.b2bpic.net/free-photo/young-beautiful-woman-tourist-holding-passport-with-tickets-pointing-with-index-finger-them-smiling-cheerfully-isolated-blue-wall_141793-13439.jpg",              imageAlt: "PAN Card Service"
+              id: "pan-card",              title: "PAN Card",              description: "Apply for new PAN card or correction of existing details. Quick processing.",              tag: "Income Tax",              imageSrc: "http://img.b2bpic.net/free-photo/young-beautiful-woman-tourist-holding-passport-with-tickets-pointing-with-index-finger-them-smiling-cheerfully-isolated-blue-wall_141793-13439.jpg?_wi=1",              imageAlt: "PAN Card Service"
             },
             {
-              id: "aadhaar",              title: "Aadhaar Card",              description: "New Aadhaar enrollment and updates. Biometric registration assistance.",              tag: "Identity",              imageSrc: "http://img.b2bpic.net/free-photo/happy-businessman-paper-plane_23-2147643081.jpg",              imageAlt: "Aadhaar Card Service"
+              id: "aadhaar",              title: "Aadhaar Card",              description: "New Aadhaar enrollment and updates. Biometric registration assistance.",              tag: "Identity",              imageSrc: "http://img.b2bpic.net/free-photo/happy-businessman-paper-plane_23-2147643081.jpg?_wi=1",              imageAlt: "Aadhaar Card Service"
             },
             {
-              id: "voting",              title: "Voter ID (Election Card)",              description: "New voter registration and correction. Instant form submission.",              tag: "Civic",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-red-green-peppers-hot-peppers-wooden-box-red-white-checkered-tablecloth-notebook-red-pencil-woman-hand-nude-background_140725-139480.jpg",              imageAlt: "Voter ID Service"
+              id: "voting",              title: "Voter ID (Election Card)",              description: "New voter registration and correction. Instant form submission.",              tag: "Civic",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-red-green-peppers-hot-peppers-wooden-box-red-white-checkered-tablecloth-notebook-red-pencil-woman-hand-nude-background_140725-139480.jpg?_wi=1",              imageAlt: "Voter ID Service"
             },
             {
-              id: "dl-rto",              title: "Driving License & RTO",              description: "Driving license application, renewal, and RTO work. Expert guidance.",              tag: "Transportation",              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-woman-holding-map_23-2148938533.jpg",              imageAlt: "Driving License Service"
+              id: "dl-rto",              title: "Driving License & RTO",              description: "Driving license application, renewal, and RTO work. Expert guidance.",              tag: "Transportation",              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-woman-holding-map_23-2148938533.jpg?_wi=1",              imageAlt: "Driving License Service"
             },
             {
-              id: "passport",              title: "Passport Services",              description: "Passport application, renewal, and related documents. Hassle-free process.",              tag: "Travel",              imageSrc: "http://img.b2bpic.net/free-photo/boots-near-tourist-supplies-suitcase_23-2147776881.jpg",              imageAlt: "Passport Service"
+              id: "passport",              title: "Passport Services",              description: "Passport application, renewal, and related documents. Hassle-free process.",              tag: "Travel",              imageSrc: "http://img.b2bpic.net/free-photo/boots-near-tourist-supplies-suitcase_23-2147776881.jpg?_wi=1",              imageAlt: "Passport Service"
             },
             {
-              id: "marriage",              title: "Marriage Certificate",              description: "Marriage registration and certificate issuance. Legal documentation.",              tag: "Legal",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-red-green-peppers-hot-peppers-wooden-box-red-white-checkered-tablecloth-notebook-red-pencil-woman-hand-nude-background_140725-139480.jpg",              imageAlt: "Marriage Certificate Service"
+              id: "marriage",              title: "Marriage Certificate",              description: "Marriage registration and certificate issuance. Legal documentation.",              tag: "Legal",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-red-green-peppers-hot-peppers-wooden-box-red-white-checkered-tablecloth-notebook-red-pencil-woman-hand-nude-background_140725-139480.jpg?_wi=2",              imageAlt: "Marriage Certificate Service"
             }
           ]}
         />
@@ -129,22 +129,22 @@ export default function LandingPage() {
           gridVariant="three-columns-all-equal-width"
           products={[
             {
-              id: "aadhaar-docs",              name: "Aadhaar Update",              price: "Required Documents",              variant: "Identity Proof, Address Proof, Phone Number",              imageSrc: "http://img.b2bpic.net/free-photo/happy-businessman-paper-plane_23-2147643081.jpg",              imageAlt: "Aadhaar Documents"
+              id: "aadhaar-docs",              name: "Aadhaar Update",              price: "Required Documents",              variant: "Identity Proof, Address Proof, Phone Number",              imageSrc: "http://img.b2bpic.net/free-photo/happy-businessman-paper-plane_23-2147643081.jpg?_wi=2",              imageAlt: "Aadhaar Documents"
             },
             {
-              id: "pan-docs",              name: "PAN Card",              price: "Required Documents",              variant: "Aadhaar, Photo, Address Proof",              imageSrc: "http://img.b2bpic.net/free-photo/young-beautiful-woman-tourist-holding-passport-with-tickets-pointing-with-index-finger-them-smiling-cheerfully-isolated-blue-wall_141793-13439.jpg",              imageAlt: "PAN Card Documents"
+              id: "pan-docs",              name: "PAN Card",              price: "Required Documents",              variant: "Aadhaar, Photo, Address Proof",              imageSrc: "http://img.b2bpic.net/free-photo/young-beautiful-woman-tourist-holding-passport-with-tickets-pointing-with-index-finger-them-smiling-cheerfully-isolated-blue-wall_141793-13439.jpg?_wi=2",              imageAlt: "PAN Card Documents"
             },
             {
-              id: "dl-docs",              name: "Driving License",              price: "Required Documents",              variant: "Aadhaar, Address Proof, Photo, Light Bill",              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-woman-holding-map_23-2148938533.jpg",              imageAlt: "Driving License Documents"
+              id: "dl-docs",              name: "Driving License",              price: "Required Documents",              variant: "Aadhaar, Address Proof, Photo, Light Bill",              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-woman-holding-map_23-2148938533.jpg?_wi=2",              imageAlt: "Driving License Documents"
             },
             {
-              id: "passport-docs",              name: "Passport",              price: "Required Documents",              variant: "Aadhaar, Birth Certificate, Marriage Certificate",              imageSrc: "http://img.b2bpic.net/free-photo/boots-near-tourist-supplies-suitcase_23-2147776881.jpg",              imageAlt: "Passport Documents"
+              id: "passport-docs",              name: "Passport",              price: "Required Documents",              variant: "Aadhaar, Birth Certificate, Marriage Certificate",              imageSrc: "http://img.b2bpic.net/free-photo/boots-near-tourist-supplies-suitcase_23-2147776881.jpg?_wi=2",              imageAlt: "Passport Documents"
             },
             {
               id: "msme-docs",              name: "MSME Registration",              price: "Required Documents",              variant: "Aadhaar, PAN, Business Address Proof",              imageSrc: "http://img.b2bpic.net/free-photo/busy-client_1098-15675.jpg",              imageAlt: "MSME Documents"
             },
             {
-              id: "ration-docs",              name: "Ration Card",              price: "Required Documents",              variant: "Aadhaar, Address Proof, Bank Passbook",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-red-green-peppers-hot-peppers-wooden-box-red-white-checkered-tablecloth-notebook-red-pencil-woman-hand-nude-background_140725-139480.jpg",              imageAlt: "Ration Card Documents"
+              id: "ration-docs",              name: "Ration Card",              price: "Required Documents",              variant: "Aadhaar, Address Proof, Bank Passbook",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-red-green-peppers-hot-peppers-wooden-box-red-white-checkered-tablecloth-notebook-red-pencil-woman-hand-nude-background_140725-139480.jpg?_wi=3",              imageAlt: "Ration Card Documents"
             }
           ]}
         />
@@ -159,13 +159,13 @@ export default function LandingPage() {
           useInvertedBackground={false}
           testimonials={[
             {
-              id: "test-1",              name: "Rajesh Patel",              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-using-laptop_1170-336.jpg",              imageAlt: "Rajesh Patel"
+              id: "test-1",              name: "Rajesh Patel",              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-using-laptop_1170-336.jpg?_wi=2",              imageAlt: "Rajesh Patel"
             },
             {
-              id: "test-2",              name: "Priya Sharma",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-happy-mature-businessman-with-folded-arms_23-2147955369.jpg",              imageAlt: "Priya Sharma"
+              id: "test-2",              name: "Priya Sharma",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-happy-mature-businessman-with-folded-arms_23-2147955369.jpg?_wi=2",              imageAlt: "Priya Sharma"
             },
             {
-              id: "test-3",              name: "Vikram Singh",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-young-successful-businesswoman-suit-cross-arms-chest-smile-look-confident-stan_1258-118782.jpg",              imageAlt: "Vikram Singh"
+              id: "test-3",              name: "Vikram Singh",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-young-successful-businesswoman-suit-cross-arms-chest-smile-look-confident-stan_1258-118782.jpg?_wi=2",              imageAlt: "Vikram Singh"
             },
             {
               id: "test-4",              name: "Anjali Verma",              imageSrc: "http://img.b2bpic.net/free-photo/man-shirt-tie-standing_171337-10746.jpg",              imageAlt: "Anjali Verma"
