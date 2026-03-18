@@ -86,22 +86,22 @@ export default function LandingPage() {
           useInvertedBackground={false}
           features={[
             {
-              id: "pan-card",              title: "PAN Card",              description: "Apply for new PAN card or correction of existing details. Quick processing.",              tag: "Income Tax",              imageSrc: "https://images.unsplash.com/photo-1554224311-beee415c15c9?w=800&h=600&fit=crop",              imageAlt: "PAN Card Service"
+              id: "pan-card",              title: "PAN Card",              description: "Apply for new PAN card or correction of existing details. Quick processing.",              tag: "Income Tax",              imageSrc: "https://images.unsplash.com/photo-1554224311-beee415c15c9?w=800&h=600&fit=crop&_wi=1",              imageAlt: "PAN Card Service"
             },
             {
-              id: "aadhaar",              title: "Aadhaar Card",              description: "New Aadhaar enrollment and updates. Biometric registration assistance.",              tag: "Identity",              imageSrc: "https://images.unsplash.com/photo-1548096328-c9367fc9534d?w=800&h=600&fit=crop",              imageAlt: "Aadhaar Card Service"
+              id: "aadhaar",              title: "Aadhaar Card",              description: "New Aadhaar enrollment and updates. Biometric registration assistance.",              tag: "Identity",              imageSrc: "https://images.unsplash.com/photo-1548096328-c9367fc9534d?w=800&h=600&fit=crop&_wi=1",              imageAlt: "Aadhaar Card Service"
             },
             {
-              id: "voting",              title: "Voter ID (Election Card)",              description: "New voter registration and correction. Instant form submission.",              tag: "Civic",              imageSrc: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop",              imageAlt: "Voter ID Service"
+              id: "voting",              title: "Voter ID (Election Card)",              description: "New voter registration and correction. Instant form submission.",              tag: "Civic",              imageSrc: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop&_wi=1",              imageAlt: "Voter ID Service"
             },
             {
-              id: "dl-rto",              title: "Driving License & RTO",              description: "Driving license application, renewal, and RTO work. Expert guidance.",              tag: "Transportation",              imageSrc: "https://images.unsplash.com/photo-1569163139394-de4798aa62b3?w=800&h=600&fit=crop",              imageAlt: "Driving License Service"
+              id: "dl-rto",              title: "Driving License & RTO",              description: "Driving license application, renewal, and RTO work. Expert guidance.",              tag: "Transportation",              imageSrc: "https://images.unsplash.com/photo-1569163139394-de4798aa62b3?w=800&h=600&fit=crop&_wi=1",              imageAlt: "Driving License Service"
             },
             {
-              id: "passport",              title: "Passport Services",              description: "Passport application, renewal, and related documents. Hassle-free process.",              tag: "Travel",              imageSrc: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=600&fit=crop",              imageAlt: "Passport Service"
+              id: "passport",              title: "Passport Services",              description: "Passport application, renewal, and related documents. Hassle-free process.",              tag: "Travel",              imageSrc: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=600&fit=crop&_wi=1",              imageAlt: "Passport Service"
             },
             {
-              id: "marriage",              title: "Marriage Certificate",              description: "Marriage registration and certificate issuance. Legal documentation.",              tag: "Legal",              imageSrc: "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=800&h=600&fit=crop",              imageAlt: "Marriage Certificate Service"
+              id: "marriage",              title: "Marriage Certificate",              description: "Marriage registration and certificate issuance. Legal documentation.",              tag: "Legal",              imageSrc: "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=800&h=600&fit=crop&_wi=1",              imageAlt: "Marriage Certificate Service"
             }
           ]}
         />
@@ -129,22 +129,22 @@ export default function LandingPage() {
           gridVariant="three-columns-all-equal-width"
           products={[
             {
-              id: "aadhaar-docs",              name: "Aadhaar Update",              price: "Required Documents",              variant: "Identity Proof, Address Proof, Phone Number",              imageSrc: "https://images.unsplash.com/photo-1548096328-c9367fc9534d?w=800&h=600&fit=crop",              imageAlt: "Aadhaar Documents"
+              id: "aadhaar-docs",              name: "Aadhaar Update",              price: "Required Documents",              variant: "Identity Proof, Address Proof, Phone Number",              imageSrc: "https://images.unsplash.com/photo-1548096328-c9367fc9534d?w=800&h=600&fit=crop&_wi=2",              imageAlt: "Aadhaar Documents"
             },
             {
-              id: "pan-docs",              name: "PAN Card",              price: "Required Documents",              variant: "Aadhaar, Photo, Address Proof",              imageSrc: "https://images.unsplash.com/photo-1554224311-beee415c15c9?w=800&h=600&fit=crop",              imageAlt: "PAN Card Documents"
+              id: "pan-docs",              name: "PAN Card",              price: "Required Documents",              variant: "Aadhaar, Photo, Address Proof",              imageSrc: "https://images.unsplash.com/photo-1554224311-beee415c15c9?w=800&h=600&fit=crop&_wi=2",              imageAlt: "PAN Card Documents"
             },
             {
-              id: "dl-docs",              name: "Driving License",              price: "Required Documents",              variant: "Aadhaar, Address Proof, Photo, Light Bill",              imageSrc: "https://images.unsplash.com/photo-1569163139394-de4798aa62b3?w=800&h=600&fit=crop",              imageAlt: "Driving License Documents"
+              id: "dl-docs",              name: "Driving License",              price: "Required Documents",              variant: "Aadhaar, Address Proof, Photo, Light Bill",              imageSrc: "https://images.unsplash.com/photo-1569163139394-de4798aa62b3?w=800&h=600&fit=crop&_wi=2",              imageAlt: "Driving License Documents"
             },
             {
-              id: "passport-docs",              name: "Passport",              price: "Required Documents",              variant: "Aadhaar, Birth Certificate, Marriage Certificate",              imageSrc: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=600&fit=crop",              imageAlt: "Passport Documents"
+              id: "passport-docs",              name: "Passport",              price: "Required Documents",              variant: "Aadhaar, Birth Certificate, Marriage Certificate",              imageSrc: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=600&fit=crop&_wi=2",              imageAlt: "Passport Documents"
             },
             {
-              id: "msme-docs",              name: "MSME Registration",              price: "Required Documents",              variant: "Aadhaar, PAN, Business Address Proof",              imageSrc: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop",              imageAlt: "MSME Documents"
+              id: "msme-docs",              name: "MSME Registration",              price: "Required Documents",              variant: "Aadhaar, PAN, Business Address Proof",              imageSrc: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop&_wi=2",              imageAlt: "MSME Documents"
             },
             {
-              id: "ration-docs",              name: "Ration Card",              price: "Required Documents",              variant: "Aadhaar, Address Proof, Bank Passbook",              imageSrc: "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=800&h=600&fit=crop",              imageAlt: "Ration Card Documents"
+              id: "ration-docs",              name: "Ration Card",              price: "Required Documents",              variant: "Aadhaar, Address Proof, Bank Passbook",              imageSrc: "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=800&h=600&fit=crop&_wi=2",              imageAlt: "Ration Card Documents"
             }
           ]}
         />
